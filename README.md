@@ -1,6 +1,13 @@
 # A Shopify checklist to create forum reviews
 
-To use go to https://checklist.answrly.com
+Easily review shopify stores with this handy dandy review tool. https://kuczmama.github.io/shopify-checklist/
+
+The review forums are at https://ecommerce.shopify.com/c/ecommerce-gallery
+
+
+
+![checklist](https://user-images.githubusercontent.com/5359580/47949487-39512b80-df87-11e8-8194-5f6a560129d6.png)
+
 
 ## Example Data format in checklist.json
 ```json
