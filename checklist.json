@@ -1,0 +1,130 @@
+{"items": [
+  {
+    "id": "favicon",
+    "name": "a favicon",
+    "question": "Does the store have a favicon?",
+    "reasons": [
+      "A favicon makes it easier for your customer to look through a list of bookmarks and find your site",
+      "A favicon is a simple thing you can add to your site to help enhance your brand",
+      "A favicon helps make your site look more professional"
+      ]
+  },
+  {
+    "id": "custom_url",
+    "name": "a custom URL",
+    "question": "Does the store use a custom domain.  ie. Not store.myshopify.com?",
+    "reasons": [
+      "A custom domain makes your site look more professional",
+      "A custom domain will help your customers remember your store so they can keep coming back",
+      "A custom domain makes it look like you truly care, I think it's worth it to spend a few extra bucks on a custom domain, it makes a big difference"
+    ]
+  },
+  {
+    "id": "reviews",
+    "name": "reviews",
+    "question": "Does the store have reviews?",
+    "reasons": [
+      "It would be good to add reviews for your products.  Think about it when was the last time you bought a product without reading the reviews first?  I think you should definitely add some reviews.",
+      "Adding reviews would help your customers research the products they are going to buy.  Plus if someone likes a product they bought from you they can leave a review.",
+      "If you add reviews it will help keep your customers on your site.  If your customer needs to leave your site to do research on a product they might not come back, adding reviews can help with that."
+    ]
+  },
+  {
+    "id": "contact_info",
+    "name": "easily visible contact info",
+    "question": "Does the store have easily visible contact info?",
+    "reasons": [
+      "If you have more easily visible contact info, it will help add trust to your store, and the more trust you can build with your customers, the more likely they will be to buy from you.",
+      "Adding more ways to contact you like email, phone number, or a contact form could really help customers if they need help purchasing a product from you, or if they have any issues with returns",
+      "If you add more contact info to your site, it can go a long way in building a brand that customers can trust.  Would you buy from a site if you weren't able to contact them?"
+    ]
+  },
+  {
+    "id": "blog",
+    "name": "a blog",
+    "question": "Does the store have a blog?",
+    "reasons": [
+      "Adding a blog to your site would help to increase SEO on your site.",
+      "If you had a blog you would be able to drive more organic traffic to your store, plus it would help establish yourself as an expert.",
+      "A blog could be used to drive more traffic to your store, and you could also use it to recommend potential products that your customer could buy.",
+      "If you had a blog more customers might be able to find your site, and even if they aren't ready to buy at the moment they are reading your blog, they are more likely to buy from you in the future."
+    ]
+  },
+  {
+    "id": "urgency",
+    "name": "a sense of urgency",
+    "question": "Does the store have a countdown timer or some other way to create urgency?",
+    "reasons": [
+      "One of the main reasons why people don't buy from a store is because they feel like they can buy it whenever.  A big thing that can help more of your visitors be turned into buyers would be by adding a sense of urgency to your store.  One way to add urgency is to have a sale, and all sales need an end date.  You can easily add a sale to your store with a countdown timer.  One countdown timer that I recommend is https://apps.shopify.com/better-countdown .",
+      "By using urgency, you can make your visitors feel like they are missing out unless they order immediately. The 'Fear of Missing Out' that they experience, will increase your ability to convert them into buyers.  One app that can help you with that is https://apps.shopify.com/better-countdown . It really can make a big difference in getting your customers to buy from you",
+      "Imagine you are a customer browsing an online store.  Maybe you are ready to buy maybe you aren't.  But there is a good chance you aren't in the buying mood at the moment.  If you add a sense of urgency to your store it can help more of your customers to buy, and have them buy faster.  One way you can do so is by adding https://apps.shopify.com/better-countdown ."
+    ]
+  },
+  {
+    "id": "buy_button",
+    "name": "an always visible buy button",
+    "question": "Does the store have an always visible buy button?",
+    "reasons": [
+      "Your buy button is the most important button on your site and it should always be within the thumbs reach of the customer.  Take a look at your store (especially on your phone), and try to easily find your buy button, especially when you are on the bottom of the page.  If your buy button isn't always visible you are making it harder for your customer to buy.  Consider adding https://apps.shopify.com/better-sticky-checkout-button-increase-your-sales , it will help it make it easier for your customer to buy from you.",
+      "The buy button is probably the most important button in your entire store and you need to make sure that your customer can always easily find it.  If your customer needs to scroll all they waaay back up after reading your descriptions, they are more likely not to buy from you.  A lot of people are very busy, and every extra step that you add is another reason why they might not want to buy from you.  I recommend adding https://apps.shopify.com/better-sticky-checkout-button-increase-your-sales .  It can help you make sure your buy button is always within a thumbs reach for your customer.",
+      "One of the biggest reasons people don't buy from online stores is because it's a hassle to checkout.  We want to be able to reduce all friction that could potentially cause a customer not to buy.  I recommend adding https://apps.shopify.com/better-sticky-checkout-button-increase-your-sales to your site.  It's an app that will make your buy button always visible.  If they buy button isn't always visible on your site, your customer will have a hard time trying to buy from you.  And even if they still are able to checkout, it can go a long way in helping them have a positive experience on your site.",
+      "Every extra step that a customer has to go through, makes it more likely for them not to buy from you.  If you are getting a lot of customers coming to your store, but not buying, one of the reasons might be that it is just a bit too hard.  If you can make your buy button always visible (especially important when people are on their phones), it can help more of your customers want to buy from you, I wrote an app that can help with that https://apps.shopify.com/better-sticky-checkout-button-increase-your-sales . "
+    ]
+  }, {
+    "id": "emails",
+    "name": "a way to collect emails",
+    "question": "Does the store have a way to collect emails?",
+    "reasons": [
+      "Adding an email list to your store can help you more easily get in touch with your customers.  Oftentimes a customer isn't ready to buy at the moment, but they may give you their email, and it would be nice if you could more easily contact them.",
+      "An email list can be one of the best ways to drive traffic to your stores.",
+      "Adding an email list to your store can help you better market to your customers, and help to create a better brand.",
+      "If your customer starts getting emails from you, when they are ready to buy they will be more likely to think of you in the future.",
+      "Email marketing is one of the best ways to keep in touch with your customers, and it can help them continue to be a long time customer far into the future."
+    ]
+  },
+  {
+ "id": "logo",
+ "name": "a custom logo",
+ "question": "Does the store have a custom logo?",
+ "reasons": [
+    "A custom logo can go a long way in helping you build a brand",
+    "Adding a custom logo to your site, can help your customers more easily be able to recognize your branding, and it can really help with trust.",
+    "A custom logo makes your site look quite a bit more professsional, and it can help you sell more products."
+  ]
+  },
+{
+  "id": "faq",
+  "name": "a FAQ section",
+  "question": "Is there an FAQ section?",
+  "reasons": [
+    "Customers often times will want a lot of information before they make a decision to purchase.  Adding an FAQ section with information about things like shipping rates, returns, and anything else relevant can help your customer more easily make a decision to purchase",
+    "Adding an FAQ section to your store can help your customer more easily be able to find a solution to their problems without asking you.  This will help long into the future so you don't need to spend so much time on customer support",
+    "If your customer can't find an answer to their questions they may not buy from you.  Adding an FAQ section will help to add trust, and make it so your customer doesn't need to leave your site, to find an answer to their question."
+  ]
+}
+],
+  "openings": [
+  "I just took a look at your store and I think it looks really good.  There are just a few minor things that I might consider changing",
+  "Overall I think your shopify store looks pretty good, But I noticed a couple of things that you might consider adding.",
+  "Hey congratulations on opening such a great store, honestly I like it a lot, but I think there might be a couple things you could consider changing.",
+  "Really good job on launching your store.  I think there isn't a ton to change, but I'm going to nitpick anyways, because there is always room for improvement :D."
+  ],
+  "paragaph_openings": [
+    "After browsing your store I noticed I wasn't able to find",
+    "Also I noticed that you don't have",
+    "After looking I couldn't find",
+    "One thing to consider is adding",
+    "Another thing you might want to add is",
+    "An important thing I couldn't find is",
+    "After carefully reviewing I don't see",
+    "You might consider adding",
+    "Did you think about adding",
+    "I wasn't able to find"
+  ],
+  "closings": [
+    "Overall your store looks really good, I think with just a little bit of time and effort you'll be able to create a really awesome store!",
+    "But seriously your store is actually really great, and I think just a few minor tweaks could really go a long way.",
+    "You know your store is actually quite good, and I think with just a bit of love and care, you will be able to really succeed.",
+    "Nice job on your all of your hard work so far, and I'm sure that just a few minor changes will really help."
+  ]
+}
