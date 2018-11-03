@@ -1,6 +1,8 @@
 # A Shopify checklist to create forum reviews
 
-To use go to https://checklist.answrly.com
+https://kuczmama.github.io/shopify-checklist/
+
+
 
 ## Example Data format in checklist.json
 ```json
