@@ -1,5 +1,7 @@
 # A Shopify checklist to create forum reviews
 
+Create easy shopify reviews at https://ecommerce.shopify.com/c/ecommerce-gallery
+
 https://kuczmama.github.io/shopify-checklist/
 
 ![checklist](https://user-images.githubusercontent.com/5359580/47949487-39512b80-df87-11e8-8194-5f6a560129d6.png)
