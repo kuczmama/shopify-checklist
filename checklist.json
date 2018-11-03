@@ -30,13 +30,23 @@
     ]
   },
   {
-    "id": "contact_info",
-    "name": "easily visible contact info",
-    "question": "Does the store have easily visible contact info?",
+    "id": "contact_form",
+    "name": "a contact form",
+    "question": "Does the store have a contact form",
     "reasons": [
-      "If you have more easily visible contact info, it will help add trust to your store, and the more trust you can build with your customers, the more likely they will be to buy from you.",
-      "Adding more ways to contact you like email, phone number, or a contact form could really help customers if they need help purchasing a product from you, or if they have any issues with returns",
+      "If you have a contact form it will help add trust to your store, and the more trust you can build with your customers, the more likely they will be to buy from you.",
+      "Adding a contact form could really help customers if they need help purchasing a product from you, or if they have any issues with returns",
       "If you add more contact info to your site, it can go a long way in building a brand that customers can trust.  Would you buy from a site if you weren't able to contact them?"
+    ]
+  },
+  {
+    "id": "support_email",
+    "name": "a support email address",
+    "question": "Does the store have a support email address",
+    "reasons": [
+      "A lot of people don't want to fill out a contact form, many prefer to seek help through email.  I suggest adding a support email address so people can more easily reach you.",
+      "If you are able to add a support email address, that's easily visible it helps your customer know that they will be able to reach out to you if they have any questions.",
+      "By adding a support email address, you will be able to build more trust with your customers and give them another point of contact to talk to you with."
     ]
   },
   {
@@ -101,11 +111,26 @@
     "Adding an FAQ section to your store can help your customer more easily be able to find a solution to their problems without asking you.  This will help long into the future so you don't need to spend so much time on customer support",
     "If your customer can't find an answer to their questions they may not buy from you.  Adding an FAQ section will help to add trust, and make it so your customer doesn't need to leave your site, to find an answer to their question."
   ]
+},
+{
+  "id": "social_media",
+  "name": "social media links",
+  "question": "Are there social media links?",
+  "reasons": [
+    "Creating some social media accounts can be a great way to drive organic traffic to your store.",
+    "If you add some social media accounts to your store like Facebook or Instagram, it will help build trust with your store and help get more customers",
+    "Adding social media for your store can go a long way in fostering a brand",
+    "Adding social media for your store can help people realize that they are dealing with a real person and organization and not just some faceless store",
+    "Adding social media accounts for your store can help you better advertise.  If you have a lot of followers on your facebook or instagram, it can create some social proof, and help more people buy from you."
+  ]
 }
 ],
   "openings": [
   "I just took a look at your store and I think it looks really good.  There are just a few minor things that I might consider changing",
   "Overall I think your shopify store looks pretty good, But I noticed a couple of things that you might consider adding.",
+  "Hey nice job on your store.  Honestly it's quite good, I like it a lot.  There are a few tiny things I would change.",
+  "There are a couple of things I might consider adding to your store, but overall good work",
+  "Nice job on your store, here is my feedback on it.",
   "Hey congratulations on opening such a great store, honestly I like it a lot, but I think there might be a couple things you could consider changing.",
   "Really good job on launching your store.  I think there isn't a ton to change, but I'm going to nitpick anyways, because there is always room for improvement :D."
   ],

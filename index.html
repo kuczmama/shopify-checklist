@@ -38,7 +38,7 @@
 
         let response = h('div',{},
           h('p', {}, pick(openings)),
-          items.map(item => {
+          shuffle(items).map(item => {
             if(!includedResponses[item.id]) return;
             let name = item.name;
             let reason = pick(item.reasons);
