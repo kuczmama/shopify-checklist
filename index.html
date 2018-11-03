@@ -57,7 +57,7 @@
 
       function checkItem(e) {
         let id = e.target.id;
-        includedResponses[id] = true;
+        includedResponses[id] = !includedResponses[id];
         buildResponse();
       }
 
