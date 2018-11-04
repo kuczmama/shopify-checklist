@@ -35,6 +35,7 @@
         let items = checklist.items
         let paragraphOpenings = checklist.paragaph_openings;
         let closings = checklist.closings;
+        let emailFunnel = checklist.email_funnel;
 
         let response = h('div',{},
           h('p', {}, pick(openings)),
@@ -45,7 +46,8 @@
             let paragaphOpening = pick(paragraphOpenings);
             return h('p', {}, paragaphOpening + " " + name + ". " +  reason)
           }).filter(x => x),
-          h('p', {}, pick(closings))
+          h('p', {}, pick(closings)),
+          h('p', {}, pick(emailFunnel))
         );
 
 

@@ -34,6 +34,7 @@ The review forums are at https://ecommerce.shopify.com/c/ecommerce-gallery
   "closings": [
     "Overall your store looks really good, I think with just a little bit of time and effort you'll be able to create a really awesome store!",
     "But seriously your store is actually really great, and I think just a few minor tweaks could really go a long way.",
-  ]
+  ],
+  "email_funnel": []
 }
 ```
