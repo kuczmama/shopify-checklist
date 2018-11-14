@@ -20,6 +20,16 @@
     ]
   },
   {
+    "id": "refund_policy",
+    "name": "a refund policy",
+    "question": "Does the store have a refund policy?",
+    "reasons": [
+      "Many customers won't order from a store unless they know exactly how they can return items they have bought from you.  It helps to have a clear return policy listed somewhere.",
+      "Oftentimes when a customer buys something from you it won't be completely right, it would help to have a return policy so your customer can know exactly what to do to return the product.",
+      "Would you buy from a store if you thought you couldn't return something?  Maybe?  But at least it would be good to let your customers know what your return policy is."
+    ],
+  },
+  {
     "id": "reviews",
     "name": "reviews",
     "question": "Does the store have reviews?",
@@ -153,11 +163,11 @@
     "Nice job on your all of your hard work so far, and I'm sure that just a few minor changes will really help."
   ],
   "email_funnel": [
-    "If this helped you consider signing up for my free email course at https://www.answrly.com/",
-    "If you found this review useful I created an email course here https://www.answrly.com/ where you can learn more ways to convert your customers",
-    "P.S. I created an email course at https://www.answrly.com/, after reviewing a bunch of stores I noticed that there are a few tips that might help, and I created an email list to help with it.",
-    "By the way, I created an email course at https://www.answrly.com/ (I'm not selling anything) that might help you optimize your store.",
-    "Just so you know (I had to do it), I wrote a series of emails https://www.answrly.com/ that might help you with some tips for making your store better (I get into the weeds there).",
-    "Just so you know, I also created a tiny email series that has some tips on making your shopify store better https://www.answrly.com/"
+    "If this helped you consider signing up for my free email course at https://mailchi.mp/7d8692283c12/shopify-conversion-course",
+    "If you found this review useful I created an email course here https://mailchi.mp/7d8692283c12/shopify-conversion-course where you can learn more ways to convert your customers",
+    "P.S. I created an email course at https://mailchi.mp/7d8692283c12/shopify-conversion-course, after reviewing a bunch of stores I noticed that there are a few tips that might help, and I created an email list to help with it.",
+    "By the way, I created an email course at https://mailchi.mp/7d8692283c12/shopify-conversion-course (I'm not selling anything) that might help you optimize your store.",
+    "Just so you know (I had to do it), I wrote a series of emails https://mailchi.mp/7d8692283c12/shopify-conversion-course that might help you with some tips for making your store better (I get into the weeds there).",
+    "Just so you know, I also created a tiny email series that has some tips on making your shopify store better https://mailchi.mp/7d8692283c12/shopify-conversion-course"
   ]
 }
