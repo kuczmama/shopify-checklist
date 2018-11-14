@@ -20,14 +20,15 @@
     ]
   },
   {
-    "id": "refund_policy",
-    "name": "a refund policy",
-    "question": "Does the store have a refund policy?",
+    "id": "return_policy",
+    "name": "a return policy",
+    "question": "Does the store have a return policy?",
     "reasons": [
-      "Many customers won't order from a store unless they know exactly how they can return items they have bought from you.  It helps to have a clear return policy listed somewhere.",
-      "Oftentimes when a customer buys something from you it won't be completely right, it would help to have a return policy so your customer can know exactly what to do to return the product.",
-      "Would you buy from a store if you thought you couldn't return something?  Maybe?  But at least it would be good to let your customers know what your return policy is."
-    ],
+      "Many customers won't order from a store unless they know exactly how they can return the items they have bought.",
+      "Oftentimes when a customer buys something from you it won't be completely right, it would help to have a return policy",
+      "Would you buy from a store if you thought you couldn't return something?  Maybe?  But it would be helpful to have a return policy.",
+      "A return policy can help your customers know what to do in case something goes wrong.  If you include one it can help increase trust and thus increase sales."
+    ]
   },
   {
     "id": "reviews",
